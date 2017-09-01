@@ -1,16 +1,8 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
+{ 
   "networks": [
     { "name": "Facebook", "url": "fb.com" },
     { "name": "YouTube", "url": "youtube.com" },
     { "name": "Twitter", "url": "twitter.com" },
     { "name": "Instagram", "url": "instagram.com" }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ] 
 }
