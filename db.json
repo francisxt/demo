@@ -1,8 +1,8 @@
 { 
   "networks": [
-    { "name": "Facebook", "url": "fb.com" },
-    { "name": "YouTube", "url": "youtube.com" },
-    { "name": "Twitter", "url": "twitter.com" },
+    { "name": "Facebook", "url": "https://www.facebook.com/karitojdf/?ref=aymt_homepage_panel" },
+    { "name": "YouTube", "url": "https://www.youtube.com/channel/UCpYbPRc1xiHPLnWXrGJD0eg" },
+    { "name": "Twitter", "url": "https://twitter.com/karitojdf" },
     { "name": "Instagram", "url": "instagram.com" }
   ] 
 }
