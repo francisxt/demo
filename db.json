@@ -5,10 +5,10 @@
     { "id": 3, "title": "Post 3" }
   ],
   "networks": [
-    { "id": 1, "name": "Facebook", "url": "fb.com" },
-    { "id": 2, "name": "YouTube", "url": "youtube.com" },
-    { "id": 3, "name": "Twitter", "url": "twitter.com" },
-    { "id": 4, "name": "Instagram", "url": "instagram.com" }
+    { "name": "Facebook", "url": "fb.com" },
+    { "name": "YouTube", "url": "youtube.com" },
+    { "name": "Twitter", "url": "twitter.com" },
+    { "name": "Instagram", "url": "instagram.com" }
   ],
   "profile": {
     "name": "typicode"
